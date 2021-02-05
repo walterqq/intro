@@ -1,12 +1,13 @@
+
 .overheadpic {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: auto;
+  width: 150%;
 }
 
 body {
-  background-color: #5b3b80;
+  background-color: #49565c;
 }
 /* 
 Main text container	
@@ -18,8 +19,9 @@ Main text container
   width: 940px;
   margin: 20px auto 0 auto;
   padding: 30x;
-  background-color: #70489c;
-  text-align: center;
+  background-color: #1a3540;
+  text-align: center
+  float: center;
 }
  
 .imageContainer {
@@ -62,8 +64,7 @@ p, li {
 }
  hr {
     border: none;
-    border-top: 5px double #300;
-    color: #300;
+    border-top: 4px double #4b5e55;
     overflow: visible;
     text-align: center;
     height: 5px;
@@ -75,3 +76,10 @@ footer {
    font-size: 22px;
    color: #a679b8;
 }
+
+
+
+
+
+
+
