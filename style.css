@@ -1,0 +1,73 @@
+
+
+.overheadpic {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+body {
+  background-color: #5b3b80;
+}
+/* 
+Main text container	
+*/
+
+.pageContainer {
+  height: auto;
+  border: 3px solid black;
+  width: 940px;
+  margin: 20px auto 0 auto;
+  padding: 30x;
+  background-color: #70489c;
+  text-align: center
+}
+ 
+.imageContainer {
+  float: center;
+  width: 690px;
+}
+ 
+.textContainer {
+  float: left;
+  width: 333px;
+  margin-left: 22px;
+  margin-top: 22px;
+  color: #e2f0dd;
+}
+
+img {
+  width: 100%;
+}
+ 
+h1 {
+  font-family:'Brush Script MT', cursive;
+  font-size: 64px;
+  color: #546cba;
+}
+ 
+p, li {
+  font-family: 'Times New Roman', serif;
+  font-size: 22px;
+  color: #e2f0dd;
+}
+
+
+.pageContainer:after { 
+  content: " ";
+  display: table;
+  clear: both;
+}
+ hr {
+    border: none;
+    border-top: 5px double #300;
+    color: #300;
+    overflow: visible;
+    text-align: center;
+    height: 5px;
+}
+footer {
+   text-align: center
+   padding: 30x;
+}
