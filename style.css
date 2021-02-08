@@ -33,6 +33,7 @@ Settings for the Article portion
   background-color: #1a3540;
   text-align: right;
   float: center;
+  display: inline-block
 }
  
 /* 
@@ -45,6 +46,7 @@ Settings for the Article portion
   margin: auto;
   margin-right: 30px;
   color: #e2f0dd;
+  display: inline-block
 }
 
 
@@ -76,6 +78,8 @@ p, li {
   color: #e2f0dd;
   float: center;
   margin-right: 30px;
+  display: inline-block
+
 }
 
 .pageContainer:after { 
