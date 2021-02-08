@@ -1,5 +1,3 @@
-
-
 /* 
 Picture	
 */
@@ -29,21 +27,23 @@ Settings for the Article portion
 .pageContainer {
   height: auto;
   border: 3px solid black;
-  width: 940px;
-  margin: 20px auto 0 auto;
+  width: 550px;
+  margin: auto;
   padding: 30x;
   background-color: #1a3540;
-  text-align: center
+  text-align: center;
   float: center;
 }
  
-
+/* 
+ Text settings inside the box
+*/
 .textContainer {
   text-align: center;
   float: center;
-  width: 333px;
-  margin-left: 22px;
-  margin-top: 22px;
+  width: auto;
+  margin: auto;
+  margin-right: 30px;
   color: #e2f0dd;
 }
 
@@ -122,4 +122,3 @@ a:hover {
 a:active {
   color: #91bda6;
 }
-
