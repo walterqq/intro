@@ -31,7 +31,7 @@ Settings for the Article portion
   margin: auto;
   padding: 30x;
   background-color: #1a3540;
-  text-align: center;
+  text-align: right;
   float: center;
 }
  
@@ -73,6 +73,7 @@ p, li {
   font-size: 22px;
   color: #e2f0dd;
   float: center;
+  margin-right: 30px;
 }
 
 .pageContainer:after { 
