@@ -27,7 +27,7 @@ Settings for the Article portion
 .pageContainer {
   height: auto;
   border: 3px solid black;
-  width: 550px;
+  width: 700px;
   margin: auto;
   padding: 30x;
   background-color: #1a3540;
@@ -53,6 +53,8 @@ h1 {
   font-size: 64px;
   color: #f3ffe8;
   float: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
  
 h2 {
