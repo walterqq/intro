@@ -2,4 +2,3 @@
 
 Austin Filiko
 
-Thanks to Thinkful
